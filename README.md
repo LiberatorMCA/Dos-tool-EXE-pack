@@ -4,5 +4,7 @@ I have run all the tools and kept them for several months with no effect on my l
 
 ComodoAntiVirus is an anti-virus that runs in the cloud, unlike AVG-Avast and others. It is one of my preferred anti-virus. It works quickly even in resource-intensive environments. It can constantly monitor network connections, etc., and can run untrusted software in a virtual box. Many people don't like this anti-virus, but I like it.
 
+The Comodo installation has an error the first few times, but after redoing it, the installation completes successfully.
+
 
                         Password is MCA2136
