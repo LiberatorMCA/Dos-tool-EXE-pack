@@ -4,8 +4,7 @@ I have run all the tools and kept them for several months with no effect on my l
 
 I just found out that you should turn off the firewall of your anti-virus software during a Dos attack. They will limit your bandwidth and slow down the speed of the Dos attack by 3 times or more than it should be.
 To elaborate, anti-viruses examine outgoing and incoming packets, which is why they slow down the communication speed.
-Not only that, since it examines packets and communication content.
-30%-40%.
+In addition, since Dos attacks send many packets, the anti-virus uses a huge amount of CPU resources to examine the many packets. This can result in a system freeze or a system crash due to CPU overload during a Dos attack.
 
 
                         Password is MCA2136
