@@ -6,5 +6,8 @@ I just found out that you should turn off the firewall of your anti-virus softwa
 To elaborate, anti-viruses examine outgoing and incoming packets, which is why they slow down the communication speed.
 In addition, since Dos attacks send many packets, the anti-virus uses a huge amount of CPU resources to examine the many packets. This can result in a system freeze or a system crash due to CPU overload during a Dos attack.
 
+We will add more advanced Ddos tools that use Botnet as soon as we find them.
+Looking forward to it!
+
 
                         Password is MCA2136
