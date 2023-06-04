@@ -7,7 +7,7 @@ To elaborate, anti-viruses examine outgoing and incoming packets, which is why t
 In addition, since Dos attacks send many packets, the anti-virus uses a huge amount of CPU resources to examine the many packets. This can result in a system freeze or a system crash due to CPU overload during a Dos attack.
 
 We will add more advanced Ddos tools that use Botnet as soon as we find them.
-Looking forward to it!
+Please look forward to it!
 
 
                         Password is MCA2136
